@@ -1,8 +1,12 @@
-# hello-world
 <!doctype html>
 <html>
 <head>
-  <style>  background-color:red; color: White </style>
+  <style> 
+    body {
+    font-family"helvetica Neue";
+    text align: center;
+    
+    background-color:red; color: White </style> }
 <title>SCUMMERS</title>
 </head>
 <body>
