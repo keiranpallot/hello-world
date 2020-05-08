@@ -3,16 +3,20 @@
 <head>
   <style> 
     body {
-    font-family"helvetica Neue";
+    font-family:"helvetica Neue";
     text align: center;
-    
-    background-color:red; color: White </style> }
+    background-color:red; color: White; }
+    h1 {
+    color:barkBlue;
+    }
+    </style>
 <title>SCUMMERS</title>
 </head>
 <body>
   <h1> <strong> Oh When The Saints Go Marching In <strong> </h1>
     <br>
   <p> Up The Saints</p>
+    <img src="Southampton-FC.JPG">
     <br>
 <h2> <em> Who is your favourite player? </em> </h2>
     <button> Ings </button> <button> Ward-Prowse </button>
